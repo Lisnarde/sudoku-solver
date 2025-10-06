@@ -1,7 +1,9 @@
 # Sudoku Solver - MIPS32
 
 Petit projet en assembleur MIPS32 : un résolveur de Sudoku.   
-Le programme prend en entrée un fichier texte (input.txt) contenant la grille du Sudoku à résoudre.
+Le programme prend en entrée un fichier texte (input.txt) contenant la grille du Sudoku à résoudre, et affiche toutes les solutions dans la console selon cet affichage :
+
+![affichage](img/affichage.png)
 
 ## Fonctionnement
 
